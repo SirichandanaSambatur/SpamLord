@@ -16,3 +16,6 @@ On terminal on MacOS or Command prompt on windows and run the python file.
     
 ## Conclusion
 All of the phone number patterns have been successfully detected with regular expressions, while a few email patterns could not be detected. The precision of finding the regular expressions is 100% and the recall is 94.01%.
+
+
+** Note:- project done as part of NLP course of SU following the Standford NLP course.
